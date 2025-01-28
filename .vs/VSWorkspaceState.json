@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DummyClient",
+    "\\Server",
+    "\\ServerCore"
+  ],
+  "SelectedNode": "\\Server\\ClientSession.cs",
+  "PreviewInSolutionExplorer": false
+}

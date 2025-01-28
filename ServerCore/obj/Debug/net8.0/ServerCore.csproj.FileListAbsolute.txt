@@ -1,0 +1,11 @@
+C:\Users\Coolblue\source\repos\Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+C:\Users\Coolblue\source\repos\Server\ServerCore\bin\Debug\net8.0\ServerCore.dll
+C:\Users\Coolblue\source\repos\Server\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
