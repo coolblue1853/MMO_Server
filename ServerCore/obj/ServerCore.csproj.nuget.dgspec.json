@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj": {}
+    "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\ServerCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj": {
+    "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\ServerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+        "projectUniqueName": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\ServerCore.csproj",
         "projectName": "ServerCore",
-        "projectPath": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+        "projectPath": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\ServerCore.csproj",
         "packagesPath": "C:\\Users\\Coolblue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\obj\\",
+        "outputPath": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

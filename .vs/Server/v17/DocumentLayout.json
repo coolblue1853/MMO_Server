@@ -1,34 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Coolblue\\source\\repos\\Server\\",
+  "WorkspaceRootPath": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\source\\repos\\server\\servercore\\servercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\servercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\bin\\Debug\\net8.0\\GenPackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PacketGenerator\\bin\\Debug\\net8.0\\GenPackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\source\\repos\\server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\source\\repos\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\Packet Generator\\PacketGenerator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\source\\repos\\server\\server\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\Packet Generator\\PacketGenerator\\PacketFormat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\source\\repos\\server\\servercore\\servercore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\servercore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\source\\repos\\server\\servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\source\\repos\\server\\servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,98 +47,141 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 143,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\source\\repos\\Server\\DummyClient\\Program.cs",
-              "RelativeDocumentMoniker": "DummyClient\\Program.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\source\\repos\\Server\\DummyClient\\Program.cs",
-              "RelativeToolTip": "DummyClient\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\Packet Generator\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Packet Generator\\PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\Packet Generator\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Packet Generator\\PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAmwM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:18:36.446Z",
+              "WhenOpened": "2025-01-28T14:20:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAmwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:28:04.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PDL.xml",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PDL.xml",
+              "RelativeDocumentMoniker": "PacketGenerator\\PDL.xml",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PDL.xml",
+              "RelativeToolTip": "PacketGenerator\\PDL.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-28T14:47:41.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\source\\repos\\Server\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\source\\repos\\Server\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\Packet Generator\\PacketGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Packet Generator\\PacketGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\Packet Generator\\PacketGenerator\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Packet Generator\\PacketGenerator\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:17:35.821Z",
+              "WhenOpened": "2025-01-28T14:26:01.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\Program.cs",
+              "RelativeToolTip": "PacketGenerator\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:09:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenPackets.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\bin\\Debug\\net8.0\\GenPackets.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\bin\\Debug\\net8.0\\GenPackets.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\bin\\Debug\\net8.0\\GenPackets.cs",
+              "RelativeToolTip": "PacketGenerator\\bin\\Debug\\net8.0\\GenPackets.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwF4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:16:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\ServerSession.cs",
+              "RelativeDocumentMoniker": "DummyClient\\ServerSession.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\ServerSession.cs",
+              "RelativeToolTip": "DummyClient\\ServerSession.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAiwLkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:29:52.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ClientSession.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\source\\repos\\Server\\Server\\ClientSession.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\ClientSession.cs",
               "RelativeDocumentMoniker": "Server\\ClientSession.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\source\\repos\\Server\\Server\\ClientSession.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\ClientSession.cs",
               "RelativeToolTip": "Server\\ClientSession.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowFEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T10:17:28.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServerCore",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
-              "RelativeDocumentMoniker": "ServerCore\\ServerCore.csproj",
-              "ToolTip": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
-              "RelativeToolTip": "ServerCore\\ServerCore.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T10:16:51.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Connector.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\Connector.cs",
-              "RelativeDocumentMoniker": "ServerCore\\Connector.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\Connector.cs",
-              "RelativeToolTip": "ServerCore\\Connector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Program.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Program.cs",
+              "RelativeToolTip": "DummyClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:16:05.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:18:36.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Listener.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\Listener.cs",
-              "RelativeDocumentMoniker": "ServerCore\\Listener.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\Listener.cs",
-              "RelativeToolTip": "ServerCore\\Listener.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:16:03.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServerCore",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
-              "RelativeDocumentMoniker": "ServerCore\\ServerCore.csproj",
-              "ToolTip": "C:\\Users\\Coolblue\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
-              "RelativeToolTip": "ServerCore\\ServerCore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T10:16:02.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T10:17:35.821Z"
             }
           ]
         }

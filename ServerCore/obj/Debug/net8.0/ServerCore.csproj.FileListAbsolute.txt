@@ -9,3 +9,15 @@ C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
 C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
 C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
 C:\Users\Coolblue\source\repos\Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\bin\Debug\net8.0\ServerCore.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ServerCore.sourcelink.json
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
