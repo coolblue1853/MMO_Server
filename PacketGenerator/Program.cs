@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Sockets;
-using System.Reflection;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
+using System.IO;
 using System.Xml;
+
 namespace PacketGenerator
 {
     class Program
@@ -15,14 +9,24 @@ namespace PacketGenerator
         static string genPackets;
         static ushort packetId;
         static string packetEnums;
+
+        static string clientRegister;
+        static string serverRegister;
+
         static void Main(string[] args)
         {
+            string pdlPath = "../PDL.xml";
+
             XmlReaderSettings settings = new XmlReaderSettings()
             {
                 IgnoreComments = true,
-                IgnoreWhitespace = true,
+                IgnoreWhitespace = true
             };
-            using (XmlReader r = XmlReader.Create("PDL.xml", settings))
+
+            if (args.Length >= 1)
+                pdlPath = args[0];
+
+            using (XmlReader r = XmlReader.Create(pdlPath, settings))
             {
                 r.MoveToContent();
 
@@ -30,15 +34,22 @@ namespace PacketGenerator
                 {
                     if (r.Depth == 1 && r.NodeType == XmlNodeType.Element)
                         ParsePacket(r);
-                    // Console.WriteLine(r.Name + " " + r["name"]);
+                    //Console.WriteLine(r.Name + " " + r["name"]);
                 }
+
                 string fileText = string.Format(PacketFormat.fileFormat, packetEnums, genPackets);
                 File.WriteAllText("GenPackets.cs", fileText);
+                string clientManagerText = string.Format(PacketFormat.managerFormat, clientRegister);
+                File.WriteAllText("ClientPacketManager.cs", clientManagerText);
+                string serverManagerText = string.Format(PacketFormat.managerFormat, serverRegister);
+                File.WriteAllText("ServerPacketManager.cs", serverManagerText);
             }
         }
+
         public static void ParsePacket(XmlReader r)
         {
-            if (r.NodeType == XmlNodeType.EndElement) return;
+            if (r.NodeType == XmlNodeType.EndElement)
+                return;
 
             if (r.Name.ToLower() != "packet")
             {
@@ -49,27 +60,23 @@ namespace PacketGenerator
             string packetName = r["name"];
             if (string.IsNullOrEmpty(packetName))
             {
-                Console.WriteLine("Packet no name");
-                return; // 여기서 바로 종료하여 NullReferenceException 방지
-            }
-
-            // {1} 멤버 변수
-            // {2} 멤버 변수 Read
-            // {3} 멤버 변수 Write 
-            Tuple<string, string, string> t = ParseMembers(r);
-            if (t == null)
-            {
-                Console.WriteLine("Failed to parse member for packet: " + packetName);
+                Console.WriteLine("Packet without name");
                 return;
             }
 
-            genPackets += string.Format(PacketFormat.packetFormat,
-                packetName, t.Item1, t.Item2, t.Item3);
+            Tuple<string, string, string> t = ParseMembers(r);
+            genPackets += string.Format(PacketFormat.packetFormat, packetName, t.Item1, t.Item2, t.Item3);
             packetEnums += string.Format(PacketFormat.packetEnumFormat, packetName, ++packetId) + Environment.NewLine + "\t";
 
+            if (packetName.StartsWith("S_") || packetName.StartsWith("s_"))
+                clientRegister += string.Format(PacketFormat.managerRegisterFormat, packetName) + Environment.NewLine;
+            else
+                serverRegister += string.Format(PacketFormat.managerRegisterFormat, packetName) + Environment.NewLine;
         }
 
-
+        // {1} 멤버 변수들
+        // {2} 멤버 변수 Read
+        // {3} 멤버 변수 Write
         public static Tuple<string, string, string> ParseMembers(XmlReader r)
         {
             string packetName = r["name"];
@@ -81,12 +88,13 @@ namespace PacketGenerator
             int depth = r.Depth + 1;
             while (r.Read())
             {
-                if (r.Depth != depth) break;
+                if (r.Depth != depth)
+                    break;
 
                 string memberName = r["name"];
                 if (string.IsNullOrEmpty(memberName))
                 {
-                    Console.WriteLine("Member no Name");
+                    Console.WriteLine("Member without name");
                     return null;
                 }
 
@@ -132,11 +140,13 @@ namespace PacketGenerator
                         break;
                 }
             }
+
             memberCode = memberCode.Replace("\n", "\n\t");
             readCode = readCode.Replace("\n", "\n\t\t");
             writeCode = writeCode.Replace("\n", "\n\t\t");
             return new Tuple<string, string, string>(memberCode, readCode, writeCode);
         }
+
         public static Tuple<string, string, string> ParseList(XmlReader r)
         {
             string listName = r["name"];
@@ -147,11 +157,7 @@ namespace PacketGenerator
             }
 
             Tuple<string, string, string> t = ParseMembers(r);
-            // {0} 리스트 이름 [대문자]
-            // {1} 리스트 이름 [소문자]
-            // {2} 멤버 변수들
-            // {3} 멤버 변수 Read
-            // {4} 멤버 변수 Write
+
             string memberCode = string.Format(PacketFormat.memberListFormat,
                 FirstCharToUpper(listName),
                 FirstCharToLower(listName),
@@ -169,25 +175,13 @@ namespace PacketGenerator
 
             return new Tuple<string, string, string>(memberCode, readCode, writeCode);
         }
-        public static string FirstCharToUpper(string input)
-        {
-            if (string.IsNullOrEmpty(input))
-                return "";
-            return input[0].ToString().ToUpper() + input.Substring(1);
-        }
 
-        public static string FirstCharToLower(string input)
-        {
-            if (string.IsNullOrEmpty(input))
-                return "";
-            return input[0].ToString().ToLower() + input.Substring(1);
-        }
         public static string ToMemberType(string memberType)
         {
             switch (memberType)
             {
                 case "bool":
-                    return "Toboolean";
+                    return "ToBoolean";
                 case "short":
                     return "ToInt16";
                 case "ushort":
@@ -202,10 +196,21 @@ namespace PacketGenerator
                     return "ToDouble";
                 default:
                     return "";
-      
             }
         }
+
+        public static string FirstCharToUpper(string input)
+        {
+            if (string.IsNullOrEmpty(input))
+                return "";
+            return input[0].ToString().ToUpper() + input.Substring(1);
+        }
+
+        public static string FirstCharToLower(string input)
+        {
+            if (string.IsNullOrEmpty(input))
+                return "";
+            return input[0].ToString().ToLower() + input.Substring(1);
+        }
     }
-
-
 }

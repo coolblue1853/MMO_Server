@@ -13,3 +13,8 @@ C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\obj\Debug\net8.0\r
 C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.pdb
 C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.genruntimeconfig.cache
 C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\obj\Debug\net8.0\ref\PacketGenerator.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\bin\net8.0\PacketGenerator.exe
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\bin\net8.0\PacketGenerator.deps.json
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\bin\net8.0\PacketGenerator.runtimeconfig.json
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\bin\net8.0\PacketGenerator.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_Server\PacketGenerator\bin\net8.0\PacketGenerator.pdb
