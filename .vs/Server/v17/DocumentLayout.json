@@ -3,30 +3,109 @@
   "WorkspaceRootPath": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\Packet\\PacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\NetworkManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\dummyclient\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\SessionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\dummyclient\\packet\\clientpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10514664-A475-47FD-A1F1-03CABF040F86}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\clientpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Server\\Packet\\PacketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Server\\GameRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\PacketGenerator\\PacketFormat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\Packet\\ClientPacketManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\PacketQueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2650EE5-3D3D-4D80-9A1D-B81C97200AD4}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\servercore\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\servercore\\jobqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\jobqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50BACA-552C-4141-9C5F-76F72432A53B}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\Server\\Session\\SessionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,10 +118,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\Server\\Packet\\GenPackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|c:\\users\\coolblue\\documents\\github\\mmo_server\\server\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F36F60-017E-4570-9C1B-F8C53C8B8812}|Server\\Server.csproj|solutionrelative:server\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,50 +127,345 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\Packet\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:43:38.658Z",
+              "WhenOpened": "2025-01-30T08:28:14.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientSession.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\ClientSession.cs",
-              "RelativeDocumentMoniker": "Server\\Session\\ClientSession.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\ClientSession.cs",
-              "RelativeToolTip": "Server\\Session\\ClientSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\SessionManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\DummyClient\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\SessionManager.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\DummyClient\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:43:20.821Z",
+              "WhenOpened": "2025-01-30T08:18:33.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:17:32.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenPackets.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Packet\\GenPackets.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\GenPackets.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Packet\\GenPackets.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\GenPackets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:17:01.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\SessionManager.cs",
+              "RelativeDocumentMoniker": "DummyClient\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\SessionManager.cs",
+              "RelativeToolTip": "DummyClient\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:15:38.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:11:18.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "GameRoom.cs",
               "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\GameRoom.cs",
               "RelativeDocumentMoniker": "Server\\GameRoom.cs",
               "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\GameRoom.cs",
               "RelativeToolTip": "Server\\GameRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwFAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T04:42:24.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "Server\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "Server\\Packet\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:39:29.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\PacketHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:10:50Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:43:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Program.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Program.cs",
+              "RelativeToolTip": "DummyClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:21:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Server\\GameRoom.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\Server\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Server\\GameRoom.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\Server\\GameRoom.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:08:00.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\NetworkManager.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\NetworkManager.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\NetworkManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:40:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientSession.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\ClientSession.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\ClientSession.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\ClientSession.cs",
+              "RelativeToolTip": "Server\\Session\\ClientSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:43:20.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:06:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PDL.xml",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PDL.xml",
+              "RelativeDocumentMoniker": "PacketGenerator\\PDL.xml",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\PDL.xml",
+              "RelativeToolTip": "PacketGenerator\\PDL.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-30T07:59:47.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAgwOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:45:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\SessionManager.cs",
+              "RelativeToolTip": "Server\\Session\\SessionManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:39:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientPacketManager.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\ClientPacketManager.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\ClientPacketManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:11:19.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientPacketManager.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:34:05.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PacketQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\PacketQueue.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\PacketQueue.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\PacketQueue.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MMO_Server\\Client\\Assets\\Scripts\\PacketQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:29:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\PacketGenerator\\Program.cs",
+              "RelativeToolTip": "PacketGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:10:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\JobQueue.cs",
+              "RelativeDocumentMoniker": "ServerCore\\JobQueue.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\JobQueue.cs",
+              "RelativeToolTip": "ServerCore\\JobQueue.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:13:05.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Session.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\Session.cs",
+              "RelativeToolTip": "ServerCore\\Session.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:08:40.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\Listener.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Listener.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\Listener.cs",
+              "RelativeToolTip": "ServerCore\\Listener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:48:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "ServerCore\\PriorityQueue.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\ServerCore\\PriorityQueue.cs",
+              "RelativeToolTip": "ServerCore\\PriorityQueue.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:48:05.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Connector.cs",
               "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Connector.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Connector.cs",
@@ -103,12 +473,11 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Connector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:53.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:39:53.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 28,
               "Title": "Session.cs",
               "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Session.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Session.cs",
@@ -116,25 +485,11 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\ServerCore\\Session.cs",
               "ViewState": "AgIAAMIAAAAAAAAAAAAgwO8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:49.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:39:49.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SessionManager.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\SessionManager.cs",
-              "RelativeDocumentMoniker": "Server\\Session\\SessionManager.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Session\\SessionManager.cs",
-              "RelativeToolTip": "Server\\Session\\SessionManager.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:42.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "SessionManager.cs",
               "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\Server\\Session\\SessionManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Session\\SessionManager.cs",
@@ -142,12 +497,23 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Session\\SessionManager.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:40.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:39:40.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
+              "Title": "JobTimer.cs",
+              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\JobTimer.cs",
+              "RelativeDocumentMoniker": "Server\\JobTimer.cs",
+              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\JobTimer.cs",
+              "RelativeToolTip": "Server\\JobTimer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:38:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "ClientSession.cs",
               "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\Server\\Session\\ClientSession.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Session\\ClientSession.cs",
@@ -155,25 +521,11 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Session\\ClientSession.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:34.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:39:34.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PacketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
-              "RelativeDocumentMoniker": "Server\\Packet\\PacketHandler.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
-              "RelativeToolTip": "Server\\Packet\\PacketHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:29.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "PacketHandler.cs",
               "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
@@ -181,12 +533,11 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Packet\\PacketHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:25.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:39:25.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 32,
               "Title": "GenPackets.cs",
               "DocumentMoniker": "C:\\Users\\Coolblue\\Downloads\\JobTimer\\MMO_Server\\Server\\Packet\\GenPackets.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Packet\\GenPackets.cs",
@@ -194,21 +545,7 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\JobTimer\\MMO_Server\\Server\\Packet\\GenPackets.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:39:18.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JobTimer.cs",
-              "DocumentMoniker": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\JobTimer.cs",
-              "RelativeDocumentMoniker": "Server\\JobTimer.cs",
-              "ToolTip": "C:\\Users\\Coolblue\\Documents\\GitHub\\MMO_Server\\Server\\JobTimer.cs",
-              "RelativeToolTip": "Server\\JobTimer.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:38:45.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:39:18.338Z"
             }
           ]
         }
