@@ -1,20 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using ServerCore;
+using System;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
-using ServerCore;
+
 namespace DummyClient
 {
 
-    
+
     class Program
     {
         static void Main(string[] args)
-        {  //DNS 사용
+        {
+            // DNS (Domain Name System)
             string host = Dns.GetHostName();
             IPHostEntry ipHost = Dns.GetHostEntry(host);
             IPAddress ipAddr = ipHost.AddressList[0];
@@ -22,23 +21,23 @@ namespace DummyClient
 
             Connector connector = new Connector();
 
-            connector.Connect(endPoint, () => { return new ServerSession(); });
+            connector.Connect(endPoint,
+                () => { return SessionManager.Instance.Generate(); },
+                500);
 
             while (true)
             {
-
                 try
                 {
+                    SessionManager.Instance.SendForEach();
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.ToString()); ;
+                    Console.WriteLine(e.ToString());
                 }
-                Thread.Sleep(500);
-            }
 
-      
-           
+                Thread.Sleep(250);
+            }
         }
     }
 }

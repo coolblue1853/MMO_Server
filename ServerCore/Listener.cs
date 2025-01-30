@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ServerCore
 {
@@ -12,42 +10,39 @@ namespace ServerCore
     {
         Socket _listenSocket;
         Func<Session> _sessionFactory;
-        public void Init(IPEndPoint endPoint,Func<Session> sessionFactory)
-        {
 
-             _listenSocket = new Socket(endPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
+        public void Init(IPEndPoint endPoint, Func<Session> sessionFactory, int register = 10, int backlog = 100)
+        {
+            _listenSocket = new Socket(endPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             _sessionFactory += sessionFactory;
 
             // 문지기 교육
             _listenSocket.Bind(endPoint);
 
             // 영업 시작
-            _listenSocket.Listen(10);//최대 대기수
+            // backlog : 최대 대기수
+            _listenSocket.Listen(backlog);
 
-            for(int i = 0; i< 10; i++)
+            for (int i = 0; i < register; i++)
             {
                 SocketAsyncEventArgs args = new SocketAsyncEventArgs();
                 args.Completed += new EventHandler<SocketAsyncEventArgs>(OnAcceptCompleted);
-                RegisterAccept(args);//최초 낚시대 던지기
+                RegisterAccept(args);
             }
-  
         }
+
         void RegisterAccept(SocketAsyncEventArgs args)
         {
-            //초기화
             args.AcceptSocket = null;
 
-            //비동기 방식으로 처리되면 콜백방식으로 완료시킴
-           bool pending = _listenSocket.AcceptAsync(args);
+            bool pending = _listenSocket.AcceptAsync(args);
             if (pending == false)
                 OnAcceptCompleted(null, args);
-          //else 상태가 되면 EventHalder에서 완료되었을때 완료 호출
-
-                
         }
+
         void OnAcceptCompleted(object sender, SocketAsyncEventArgs args)
         {
-            if(args.SocketError == SocketError.Success)
+            if (args.SocketError == SocketError.Success)
             {
                 Session session = _sessionFactory.Invoke();
                 session.Start(args.AcceptSocket);
@@ -56,8 +51,7 @@ namespace ServerCore
             else
                 Console.WriteLine(args.SocketError.ToString());
 
-            RegisterAccept(args);//다시 낚시대던지기
+            RegisterAccept(args);
         }
-
     }
 }
